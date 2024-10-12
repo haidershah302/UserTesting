@@ -5545,7 +5545,7 @@ const assets = {
     "etag": "\"c2b-5gRFGEAqEj4lmCX/Zmt3fnw1dEc\"",
     "mtime": "2024-10-12T17:48:23.791Z",
     "size": 3115,
-    "path": "../../static/assets/room/icons/Gifts.png"
+    "path": "../../static/assets/room/icons/gifts.png"
   },
   "/assets/room/backgrounds/1.jpg": {
     "type": "image/jpeg",
