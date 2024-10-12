@@ -7,4 +7,7 @@ export default defineNuxtConfig({
     pageTransition: { name: 'slide-right', mode: 'out-in' },
     layoutTransition: { name: 'slide-right', mode: 'out-in' }
   },
+  nitro: {
+    preset:'aws-amplify'
+  }
 })
