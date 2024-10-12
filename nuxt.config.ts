@@ -7,9 +7,4 @@ export default defineNuxtConfig({
     pageTransition: { name: 'slide-right', mode: 'out-in' },
     layoutTransition: { name: 'slide-right', mode: 'out-in' }
   },
-  build: {
-    rollupOptions: {
-      external: ["/assets/room/icons/games.png"]
-    }
-  }
 })

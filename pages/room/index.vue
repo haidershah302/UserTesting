@@ -190,9 +190,9 @@
                             </svg>
                         </button>
 
-                        <button class="btn p-0 btn-ghost shadow-icons">
-                            <img src="/assets/room/icons/games.png" alt="">
-                        </button>
+<!--                        <button class="btn p-0 btn-ghost shadow-icons">-->
+<!--                            <img src="/assets/room/icons/games.png" alt="">-->
+<!--                        </button>-->
 
                         <button class="btn p-0 btn-ghost shadow-icons">
                             <img src="/assets/room/icons/gifts.png" alt="">
