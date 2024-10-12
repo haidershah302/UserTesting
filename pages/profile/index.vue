@@ -3,7 +3,7 @@
         <div class="px-4 grid grid-cols-12 gap-4">
 
             <button class="btn btn-success p-1 shadow shadow-success col-span-2">
-                <img src="~/assets/siteAssets/perofile/icons/wallet.png" alt="">
+                <img src="/assets/profile/icons/wallet.png" alt="">
             </button>
 
             <div class="font-semibold text-2xl col-span-8 text-base-content">
